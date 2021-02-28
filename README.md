@@ -24,7 +24,7 @@ Add the package middleware to **$middlewareGroups['web']** array of the `app/Htt
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
 
             // ADD THIS LINE
-            \JamesGordo\LaravelMinifyHtml\App\Http\Middleware\MinifyHtml::class,
+            \JamesGordo\LaravelMinifyHtml\Http\Middleware\MinifyHtml::class,
         ],
 
 ```

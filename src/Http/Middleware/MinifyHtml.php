@@ -1,6 +1,6 @@
 <?php
 
-namespace JamesGordo\LaravelMinifyHtml\App\Http\Middleware;
+namespace JamesGordo\LaravelMinifyHtml\Http\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
