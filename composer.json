@@ -1,0 +1,18 @@
+{
+    "name": "jamesgordo/laravel-minify-html",
+    "description": "A minimal Laravel package that minifies the HTML output of all your Laravel web routes for production and staging environment.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Gordo",
+            "email": "hello@jamesgordo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JamesGordo\\LaravelMinifyHtml\\": "src/"
+        }
+    },
+    "require": {}
+}

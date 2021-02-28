@@ -1,0 +1,3 @@
+# ignore generated files
+src/app/Http/Kernel.php
+src/app/Providers/RouteServiceProvider.php
